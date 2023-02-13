@@ -1,8 +1,8 @@
 library(httr)
 library(jsonlite)
 
-# API Key (del correo)
-api_key <- "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJyb2RyaXNhYmF0ZHNAZ21haWwuY29tIiwianRpIjoiOWJiMTAxNjMtN2NlZi00NmRkLTkxOGItYzRhNzVhZjc3NTZmIiwiaXNzIjoiQUVNRVQiLCJpYXQiOjE2NzYzMTQ2OTEsInVzZXJJZCI6IjliYjEwMTYzLTdjZWYtNDZkZC05MThiLWM0YTc1YWY3NzU2ZiIsInJvbGUiOiIifQ.IFE7mC_Sf2Y9IfiG8564KkrKYIrvs-pnHqzdZpHdnOk"
+# API Key from mail
+api_key <- # Here you enter the api key provided by the API 
 
 # Parameterss for the endpoint for Gijon, Puerto
 fechaIniStr = "2015-01-01T00:00:00UTC" #AAAA-MM-DDTHH:MM:SSUTC # Start date
