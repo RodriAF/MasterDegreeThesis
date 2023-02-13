@@ -2,4 +2,4 @@
 In this repository I´m sharing my Master´s Degree Thesis I´m currently doing about a comparation of predicting weather with Time Series Forecasting and Machine Learning with R.
 
 ## Dataset
-The dataset is from the public [AEMET API, https://opendata.aemet.es/centrodedescargas/inicio].
+The data used is from the public database of weather from Spain kept in [AEMET API] (https://opendata.aemet.es/centrodedescargas/inicio).
